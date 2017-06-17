@@ -3,7 +3,7 @@ layout: default
 title: Learn Angular 2
 ---
 
-![Angular2](https://angular.io/resources/images/logos/standard/shield-large.png)
+![Angular2](https://angular.io/assets/images/logos/angular/angular.svg)
 
 Angular 2 is the next version of Google's massively popular MV* framework for building complex
 applications in the browser (and beyond).
